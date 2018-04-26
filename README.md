@@ -1,5 +1,4 @@
 # News & Newsletter plugin
-Plugins này được chỉnh sửa lại bởi Quang trọng
 
 Plugin can be used for publishing news simply on the website. In contrary of blog, writing comments is not possible, but visitors can subscribe on a newsletter system. During publishing news posts are available not just on the website but you can send them via email to subscribed users.
 
